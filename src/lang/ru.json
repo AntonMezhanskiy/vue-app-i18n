@@ -1,0 +1,11 @@
+{
+    "welcome_message": "Добро пожаловать в Vue.js App",
+    "popular_links": "Популярные ссылки",
+    "change_tanguage_to": "Сменить язык",
+    "pages": {
+      "home": "Главная",
+      "about": "О проекте",
+      "login": "Войти"
+    }
+  }
+  
